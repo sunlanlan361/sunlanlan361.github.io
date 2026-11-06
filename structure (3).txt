@@ -1,0 +1,5 @@
+1. Heading: Name + short title
+2. Photo: profile.jpg
+3. About (from bio.txt)
+4. CV / Background (from cv.txt), chart: images/chart1.png
+5. Contact (from links.txt)
